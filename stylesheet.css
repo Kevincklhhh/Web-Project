@@ -37,15 +37,15 @@ a{text-decoration:none}
 }
 #d2{ position: relative; left: 90px; top:500px;border: 3px solid #73AD21;}
 #e2{position: relative; left: 90px; top:120px;border: 3px solid #73AD21;}
-#a3{ position: relative; left: 90px; top:200px;border: 3px solid #73AD21;
+#a3{ position: relative; left: 130px; top:200px;border: 3px solid #73AD21;
 }
-#b3{ position: relative; left: 90px; top:200px;border: 3px solid #73AD21;
+#b3{ position: relative; left: 130px; top:200px;border: 3px solid #73AD21;
 }
-#c3{ position: relative; left: 90px; top:200px;border: 3px solid #73AD21;
+#c3{ position: relative; left: 130px; top:200px;border: 3px solid #73AD21;
 }
-#d3{ position: relative; left: 90px; top:200px;border: 3px solid #73AD21;
+#d3{ position: relative; left: 130px; top:200px;border: 3px solid #73AD21;
 }
-#e3{position: relative; left: 90px; top:200px;border: 3px solid #73AD21;}
+#e3{position: relative; left: 130px; top:200px;border: 3px solid #73AD21;}
 nav li{
 	display: inline;
 	padding:15px;
