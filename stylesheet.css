@@ -1,0 +1,75 @@
+.navigationbar{font-family: helvetica;}
+div{font-family: helvetica;}
+ .gallery{width: 33%;
+    height: 50%;
+    border: 1px solid #000;
+    background-size: cover;
+    background-position: center center;
+    float: left;}
+.title{font-family:Trebuchet;font-size:36px;text-align: center;}
+.words{font-family: helvetica;font-color:white; text-align: center;}
+.subtitle{font-family: helvetica;}
+p{font-size: 20px}
+a{text-decoration:none}
+#a{ position: relative; left: 100px; top:140px;border: 3px solid #73AD21;
+}
+#b{ position: relative; left: 90px; top:140px;border: 3px solid #73AD21;
+}
+#c{ position: relative; left: 90px; top:140px;border: 3px solid #73AD21;
+}
+#d{position: relative; left: 90px; top:140px;border: 3px solid #73AD21;
+}
+#e{position: relative; left: 90px; top:140px;border: 3px solid #73AD21;}
+#f{position: relative; left: 90px; top:140px;border: 3px solid #73AD21;}
+#a1{ position: relative; left: 90px; top:550px;border: 3px solid #73AD21;
+}
+#b1{ position: relative; left: 90px; top:550px;border: 3px solid #73AD21;
+}
+#c1{ position: relative; left: 90px; top:550px;border: 3px solid #73AD21;
+}
+#d1{ position: relative; left: 90px; top:550px;border: 3px solid #73AD21;
+}
+#e1{position: relative; left: 90px; top:550px;border: 3px solid #73AD21;}
+#f1{position: relative; left: 90px; top:550px;border: 3px solid #73AD21;}
+#a2{ position: relative; left: 90px; top:500px;border: 3px solid #73AD21;
+}
+#b2{ position: relative; left: 90px; top:500px;border: 3px solid #73AD21;
+}
+#c2{ position: relative; left: 90px; top:500px;border: 3px solid #73AD21;
+}
+#d2{ position: relative; left: 90px; top:500px;border: 3px solid #73AD21;}
+#e2{position: relative; left: 90px; top:120px;border: 3px solid #73AD21;}
+#a3{ position: relative; left: 90px; top:600px;border: 3px solid #73AD21;
+}
+#b3{ position: relative; left: 90px; top:600px;border: 3px solid #73AD21;
+}
+#c3{ position: relative; left: 90px; top:600px;border: 3px solid #73AD21;
+}
+#d3{ position: relative; left: 90px; top:600px;border: 3px solid #73AD21;
+}
+#e3{position: relative; left: 90px; top:600px;border: 3px solid #73AD21;}
+#a4{ position: relative; left: 90px; top:500px;border: 3px solid #73AD21;
+}
+#b4{ position: relative; left: 90px; top:500px;border: 3px solid #73AD21;
+}
+#c4{ position: relative; left: 90px; top:500px;border: 3px solid #73AD21;
+}
+#d4{ position: relative; left: 90px; top:500px;border: 3px solid #73AD21;
+}
+#e4{position: relative; left: 90px; top:500px;border: 3px solid #73AD21;}
+#f4{position: relative; left: 90px; top:500px;border: 3px solid #73AD21;}
+nav li{
+	display: inline;
+	padding:15px;
+	border:1px solid black;
+	margin-right: 15px;
+	text-transform: uppercase;
+	background-color: #eaeaea;}
+li a:hover{
+	color:#FF00FF !important;}
+.image{
+position: relative;
+left: 100px;
+top: 100px;}
+background-size: cover;
+background-position: center center;
